@@ -62,7 +62,7 @@ A continuacion se detalla la funcion dentro del sistema de cada uno de los usuar
 
 Este proyecto esta bajo la licencia [MIT](https://opensource.org/license/MIT).
 
-Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, consulta nuestra documentacion tecnica.
+Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, consulta nuestra [documentacion tecnica](/documentacion-tecnica.md).
 
 Organismos colaboradores:
 
