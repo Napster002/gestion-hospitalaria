@@ -3,12 +3,12 @@
 ## Indice
 
 - Documentacion de la Aplicacion de Gestion Hospitalaria
-    - Indice
-    - Introduccion
-    - Instalacion
-    - Uso
-    - Contribucion
-    - Licencia
+    - [Indice](#indice)
+    - [Introduccion](#introduccion)
+    - [Instalacion](#instalacion)
+    - [Uso](#uso)
+    - [Contribucion](#contribucion)
+    - [Licencia](#licencia)
 
 ## Introduccion
 
