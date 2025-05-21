@@ -19,7 +19,7 @@ El Sistema de Gestion Hospitalaria desarrollado por el alumnado del **IES Miguel
 Para instalar y configurar la aplicacion en tu entorno local, sigue los siguientes pasos:
 
 1. Clonar el repositorio desde GitHub:    
-    git clone https://github.com/Napster002/gestion-hospitalaria.git
+    `git clone https://github.com/Napster002/gestion-hospitalaria.git` \comando gui
 
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, Intellij...).
 
@@ -59,7 +59,7 @@ A continuacion se detalla la funcion dentro del sistema de cada uno de los usuar
 
 ## Licencia
 
-Este proyecto esta bajo la licencia MIT.
+Este proyecto esta bajo la licencia [MIT](https://opensource.org/license/MIT).
 
 Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, consulta nuestra documentacion tecnica.
 
