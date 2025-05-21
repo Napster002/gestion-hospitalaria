@@ -18,8 +18,9 @@ El Sistema de Gestion Hospitalaria desarrollado por el alumnado del **IES Miguel
 
 Para instalar y configurar la aplicacion en tu entorno local, sigue los siguientes pasos:
 
-1. Clonar el repositorio desde GitHub:    
-    `git clone https://github.com/Napster002/gestion-hospitalaria.git` \comando gui
+1. Clonar el repositorio desde GitHub:
+
+    `git clone https://github.com/Napster002/gestion-hospitalaria.git`
 
 2. Abre el proyecto en tu entorno de desarrollo preferido (VSCode, Intellij...).
 
@@ -52,9 +53,9 @@ A continuacion se detalla la funcion dentro del sistema de cada uno de los usuar
 ¿Quieres colaborar el el desarrollo?
 
 1. Haz un fork del repositorio.
-2. Crea una nueva rama (git checkout -b feature/tu-mejora).
-3. Realiza tus cambios y haz commit (git commit -am 'Agrega nueva funcionalidad).
-4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+2. Crea una nueva rama (`git checkout -b feature/tu-mejora`).
+3. Realiza tus cambios y haz commit (`git commit -am 'Agrega nueva funcionalidad'`).
+4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un pull request su revision.
 
 ## Licencia
@@ -65,5 +66,5 @@ Para obtener mas informacion sobre la aplicacion y su funcionamiento interno, co
 
 Organismos colaboradores:
 
-![]()
-![]()
+![](/logoIESMHP.png)
+![](https://www.eiivaldecilla.es/wp-content/uploads/5525-nuevo-logo-valdecilla.jpg)
